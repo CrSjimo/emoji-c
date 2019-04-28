@@ -17,6 +17,7 @@
 #define 📇 enum
 #define 🗃️ const
 #define 🏃 goto
+#define 😂 main
 
 
 #define 🈶 1
