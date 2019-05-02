@@ -1,5 +1,5 @@
-#include"../emojic.h"
-#include<stdio.h>
+#include"../emoji_c.h"
+#include"../emoji_stdio.h"
 🔆 😀[10010];
 🔢 😁[6]={1,5,10,20,50,100};
 🔢 😂(){
