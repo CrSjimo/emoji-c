@@ -6,7 +6,9 @@
 #define 🔅 short
 #define 🌊🔢 float
 #define 🌊🌊🔢 double
+#if __STDC_VERSION__ > 199901
 #define 🆗 _Bool
+#endif
 #define 🔠 char
 #define 📌 signed
 #define 📍 unsigned
@@ -31,5 +33,28 @@
 #define 👍 switch
 #define 👋 case
 #define 🙌 default 
+#define 🎼 inline
+#define 📢 typedef
+#define 🗜️ static
+#define 🛫 extern
+
+#ifdef __cplusplus
+#define 🏷️🌌 namespace
+#define 🏠 class
+#define 🔓 public
+#define 🔐 protected
+#define ㊙️ private
+#define 💫 virtual
+#define 🔧💱 dynamic_cast
+#define 🗜️💱 static_cast
+#define 🗃️💱 const_cast
+#define 🗞️💱 reinterpret_cast
+#define 👥 friend
+#define 🤳 using
+#define 📚 template
+#define 💪 try
+#define 🤞 catch
+#define 💣 throw
+#endif
 
 #endif
