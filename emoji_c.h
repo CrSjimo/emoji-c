@@ -55,6 +55,7 @@
 #define 💪 try
 #define 🤞 catch
 #define 💣 throw
+#define 🆗 bool
 #endif
 
 #endif
