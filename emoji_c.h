@@ -6,7 +6,7 @@
 #define 🔅 short
 #define 🌊🔢 float
 #define 🌊🌊🔢 double
-#if __STDC_VERSION__ > 199901
+#if __STDC_VERSION__ >= 199901
 #define 🆗 _Bool
 #endif
 #define 🔠 char
